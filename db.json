@@ -1,0 +1,262 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Galaxy S23",
+            "img": "https://i.pinimg.com/564x/25/b9/d8/25b9d8cf86718ce5b82ac2c409397e81.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 2,
+            "nome": "iPhone 14",
+            "img": "https://i.pinimg.com/236x/26/be/56/26be56634ad9773c9d8f6315cac2cba7.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 3,
+            "nome": "Notebook Dell 15",
+            "img": "https://i.pinimg.com/236x/71/33/22/7133224b074fc7c2d8d22c66909e5fae.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 4,
+            "nome": "Macbook Pro 14",
+            "img": "https://i.pinimg.com/236x/5c/94/b8/5c94b877b9135b62c8801f8e844feb79.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 5,
+            "nome": "Tablet S8 Samsung",
+            "img": "https://i.pinimg.com/236x/b5/36/61/b53661eea340e5485a553631c32fc20a.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 6,
+            "nome": "iPad Air",
+            "img": "https://i.pinimg.com/236x/70/87/0d/70870dd4b2297752cd784b617ed4378b.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 7,
+            "nome": "Fones JBL com fio",
+            "img": "https://i.pinimg.com/236x/64/bd/8e/64bd8ed1b382e3dfae429f0f5e756ddb.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 8,
+            "nome": "AirPods sem fio",
+            "img": "https://i.pinimg.com/236x/26/fc/3e/26fc3e903770a974d0b3b916046f5d5b.jpg",
+            "preco": "",
+            "produtoId": 2
+        },
+        {
+            "id": 9,
+            "nome": "Camisa da Argentina",
+            "img": "https://i.pinimg.com/236x/d1/f1/f3/d1f1f3429e50065420446a1011b6f0e5.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 10,
+            "nome": "Blusa dos Simpsons",
+            "img": "https://i.pinimg.com/236x/eb/30/89/eb3089b2e1af183efa676edbe5a148dc.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 11,
+            "nome": "Short de futebol",
+            "img": "https://i.pinimg.com/564x/3d/fa/01/3dfa0185ab71c3a9bbb93f6299b09110.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 12,
+            "nome": "Bermuda destroyed",
+            "img": "https://i.pinimg.com/236x/fa/9b/ef/fa9bef0ccf54029a2fa9a6491a0af9da.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 13,
+            "nome": "Calça jeans",
+            "img": "https://i.pinimg.com/236x/e5/fc/bb/e5fcbb996cb15334400c174a2ad4b783.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 14,
+            "nome": "Calça moletom",
+            "img": "https://i.pinimg.com/236x/5e/db/22/5edb22c2bb9e42932f3dc8da64f236b6.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 15,
+            "nome": "Moletom dos Simpsons",
+            "img": "https://i.pinimg.com/236x/b8/1e/a9/b81ea936e6ac1ba86744eb1acf820cb2.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 16,
+            "nome": "Saia escolar",
+            "img": "https://i.pinimg.com/236x/62/2c/d6/622cd631e14da152dcc0d1a447ea8603.jpg",
+            "preco": "",
+            "produtoId": 1
+        },
+        {
+            "id": 17,
+            "nome": "Boné Adidas",
+            "img": "https://i.pinimg.com/236x/26/c7/88/26c7881e923d43647da3151c4f34e0d5.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 18,
+            "nome": "Boné Lacoste",
+            "img": "https://i.pinimg.com/236x/0f/c5/c7/0fc5c76c782c27d0dd94692c537ca1d2.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 19,
+            "nome": "Chapéu bucket",
+            "img": "https://i.pinimg.com/736x/4a/7f/9d/4a7f9d1b15ab8e1c9c0cc1f649a46ec0.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 20,
+            "nome": "Corrente de prata 6mm",
+            "img": "https://i.pinimg.com/236x/3e/03/7d/3e037dc24a7d38e9bb57049c32e38ba9.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 21,
+            "nome": "Mochila Adidas",
+            "img": "https://i.pinimg.com/236x/a9/f5/90/a9f5907ee0c6732b64e901374cc1b178.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 22,
+            "nome": "Relógio retrô Casio",
+            "img": "https://i.pinimg.com/236x/27/73/cc/2773cc6d9541261000749f074124d713.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 23,
+            "nome": "Pulseira de couro masculina",
+            "img": "https://i.pinimg.com/236x/9f/b2/fb/9fb2fbb6d1a7fffd22da37bf5a963c3c.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 24,
+            "nome": "Brinco de Cruz",
+            "img": "https://i.pinimg.com/236x/35/34/81/3534812d4d7d15313d2d9eb872b162a3.jpg",
+            "preco": "",
+            "produtoId": 3
+        },
+        {
+            "id": 25,
+            "nome": "Série Fallen",
+            "autor": "Lauren Kate",
+            "img": "https://i.pinimg.com/236x/76/c2/d1/76c2d138c4098702d69a04bb1cfb94d7.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 26,
+            "nome": "Box Harry Potter",
+            "autor": "JK Rowling",
+            "img": "https://i.pinimg.com/236x/c3/da/57/c3da5731f381e9256ffd4b0aeb684d57.jpg",
+            "preco": "0",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 27,
+            "nome": "Trilogia: O inferno de Gabriel",
+            "autor": "Sylvain Reynard",
+            "img": "https://i.pinimg.com/564x/8c/88/c4/8c88c4bdfcada8cb54a40ba668226c45.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 28,
+            "nome": "A divína comédia",
+            "autor": "Dante Alighieri",
+            "img": "https://i.pinimg.com/236x/06/8f/87/068f87b56aae9ae78da45673b73f746a.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 29,
+            "nome": "Box O senhor dos anéis",
+            "autor": "J.R.R. Tolkien",
+            "img": "https://i.pinimg.com/236x/63/e1/ee/63e1ee0b45c76726c0aa3424e94b20a3.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 30,
+            "nome": "Romeu e Julieta",
+            "autor": "William Shakespeare",
+            "img": "https://i.pinimg.com/236x/a7/02/f9/a702f9606acb5fb0f941acceca93aa13.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 31,
+            "nome": "A culpa é das estrelas",
+            "autor": "John Green",
+            "img": "https://i.pinimg.com/236x/71/85/21/7185217c7e9092716afb88bb50f31466.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        },
+        {
+            "id": 32,
+            "nome": "O homem mais inteligente da história",
+            "autor": "Augusto Cury",
+            "img": "https://i.pinimg.com/236x/fd/0e/ad/fd0eadbff66aa2161b1207001e4923d3.jpg",
+            "preco": "",
+            "sobre": "informações sobre os livros",
+            "produtoId": 3
+        }
+    ],
+    "categoria": [
+        {
+            "nome": "Acessórios",
+            "id": 1
+        },
+        {
+            "nome": "Eletrônicos",
+            "id": 2
+        },
+        {
+            "nome": "Livros",
+            "id": 3
+        },
+        {
+            "nome": "Roupas",
+            "id": 4
+        }
+    ]
+}

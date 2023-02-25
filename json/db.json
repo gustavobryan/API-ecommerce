@@ -1,0 +1,182 @@
+{
+    "Categorias": [
+        {
+            "Eletronicos": [
+                {
+                    "id": 1,
+                    "nome": "Galaxy S23",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 2,
+                    "nome": "iPhone 14",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 3,
+                    "nome": "Notebook Dell 15",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 4,
+                    "nome": "Macbook Pro 14",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 5,
+                    "nome": "Tablet S8 Samsung",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 6,
+                    "nome": "iPad Air",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 7,
+                    "nome": "Fones JBL com fio",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 8,
+                    "nome": "AirPods sem fio",
+                    "imagem": "produto.jpg"
+                }
+            ],
+            "Roupas": [
+                {
+                    "id": 1,
+                    "nome": "Camisa da Argentina",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 2,
+                    "nome": "Blusa dos Simpsons",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 3,
+                    "nome": "Short de futebol",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 4,
+                    "nome": "Bermuda jeans destroyed",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 5,
+                    "nome": "Calça jeans",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 6,
+                    "nome": "Calça jogger moletom",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 7,
+                    "nome": "Moletom do Naruto",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 8,
+                    "nome": "Saia Kpop",
+                    "imagem": "produto.jpg"
+                }
+            ],
+            "Acessorios": [
+                {
+                    "id": 1,
+                    "nome": "Boné Adidas",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 2,
+                    "nome": "Boné Lacoste arco-íris",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 3,
+                    "nome": "Chapéu bucket",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 4,
+                    "nome": "Corrente de prata 6mm",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 5,
+                    "nome": "Mochila Adidas",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 6,
+                    "nome": "Relógio retrô Casio",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 7,
+                    "nome": "Pulseira de couro masculina",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 8,
+                    "nome": "Brinco de Cruz",
+                    "imagem": "produto.jpg"
+                }
+            ],
+            "Livros": [
+                {
+                    "id": 1,
+                    "nome": "Série Fallen",
+                    "autor": "Lauren Kate",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 2,
+                    "nome": "Box Harry Potter",
+                    "autor": "JK Rowling",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 3,
+                    "nome": "Trilogia: O inferno de Gabriel",
+                    "autor": "Sylvain Reynard",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 4,
+                    "nome": "A divína comédia",
+                    "autor": "Dante Alighieri",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 5,
+                    "nome": "Box O senhor dos anéis",
+                    "autor": "J.R.R. Tolkien",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 6,
+                    "nome": "Romeu e Julieta",
+                    "autor": "William Shakespeare",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 7,
+                    "nome": "A culpa é das estrelas",
+                    "autor": "John Green",
+                    "imagem": "produto.jpg"
+                },
+                {
+                    "id": 8,
+                    "nome": "O homem mais inteligente da história",
+                    "autor": "Augusto Cury",
+                    "imagem": "produto.jpg"
+                }
+            ]
+        }
+    ]
+}
