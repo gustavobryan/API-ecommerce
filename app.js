@@ -2,12 +2,6 @@ fetch("http://localhost:3000/produtos?_sort=produtoId&_order=cres")
     .then((req) => req.json())
     .then((data) => mostraProdutos(data));
     
-let listaProdutos = [mostraProdutos]; 
-
-function array_chunk(arr, len) {
-    let
-}
-
 function mostraProdutos(produtos) {
     const htmlProdutos = produtos.map(
         (produto) => `
